@@ -1,0 +1,35 @@
+https://api.paytripapp.com/contract/J220701/name
+https://api.paytripapp.com/contract/J220701/xfer
+https://api.paytripapp.com/contract/J220701/balance
+https://api.paytripapp.com/contract/J220701/totalSupply
+https://api.paytripapp.com/contract/J220701/symbol
+https://api.paytripapp.com/contract/J220701/name
+
+https://api.paytripapp.com/user/J220701/signup
+https://api.paytripapp.com/user/J220701/verify
+https://api.paytripapp.com/user/J220701/login
+https://api.paytripapp.com/user/J220701/forgot-password
+https://api.paytripapp.com/user/J220701/verify-code
+https://api.paytripapp.com/user/J220701/reset-password
+https://api.paytripapp.com/user/J220701/profile
+https://api.paytripapp.com/user/J220701/update-profile
+https://api.paytripapp.com/user/J220701/check-in
+https://api.paytripapp.com/user/J220701/logout
+
+//admin notification apis
+https://api.paytripapp.com/user/J220701/notification
+https://api.paytripapp.com/user/J220701/storeNotification
+https://api.paytripapp.com/user/J220701/deleteNotification/:id
+https://api.paytripapp.com/user/J220701/notificationList
+
+
+//user level userlist
+https://api.paytripapp.com/user/J220701/level
+https://api.paytripapp.com/user/J220701/userList
+https://api.paytripapp.com/user/J220701/notificationList
+
+https://api.paytripapp.com/user/J220701/deleteUser
+https://api.paytripapp.com/user/J220701/trxList
+https://api.paytripapp.com/user/J220701/changeUserStatus
+https://api.paytripapp.com/user/J220701/blockDomain
+https://api.paytripapp.com/user/J220701/unBlockDomain

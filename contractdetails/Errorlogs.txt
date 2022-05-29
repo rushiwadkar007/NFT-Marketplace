@@ -1,0 +1,26 @@
+ERC1155 ERROR MESSAGES
+Buy FUnctionality - 
+BF1 - Must send ethers to the seller. You are sending 0 amount as payment to seller.
+BF2 - address is Empty.
+BF3 - Payment has not yet been transferred to the NFT Owner. Please Send Payment in time.
+BF4 - Buyer can not be the owner of NFT at this stage.
+BF5 - This much amount of tokens are not available with the seller right now. Please check token availability first.
+BF6 - tokens information is missing and hence mismatch is there.
+BF7 - Payment has not yet been transferred to the NFT Owner. Please Send Payment in time.
+BF8 - Payment has not yet been transferred to the NFT Owner. Please Send Payment in time.
+BF9 - This much amount of tokens are not available with the seller right now. Please check token availability first.
+Bid functionality - 
+BiF1 - You have no tokens to Bid!
+BiF2 - Either TokenOwner has no tokens to conduct this bid or perhaps you are not the owner of this token!
+BiF3 - auction already ended.
+BiF4 - Equal or higher than this bid is already present
+BiF5 - Bidding value is zero, can not be entered!
+BiF6 - Either TokenOwner has no tokens to conduct this bid or perhaps you are not the owner of this token!
+BiF7 - token ID is wrong. Perhaps this token is not minted yet.
+BiF8 - Since you have already bid and entered some funds as a BID AMOUNT into our platform, please collect your funds first and re-bid here.
+BiF9 - bidder is not the owner.
+BiF10 - Prior Bid is present
+BiF11 - Place your first bid then have a try to re-bidding.
+BiF12 - amount must be geater than zero.
+BiF13 - Auction is still going on...Bid fast to win it...
+BiF14 - Sorry, You are not the owner of this NFT, You can not close this bid.
